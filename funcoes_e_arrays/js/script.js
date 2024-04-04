@@ -107,9 +107,9 @@
 // console.log(text.toUpperCase());
 // console.log(text2.toLocaleLowerCase());
 
-const array = ["a", "b", "c"];
+// const array = ["a", "b", "c"];
 
-array.push("d");
+// array.push("d");
 
 // console.log(array);
 // console.log(array.length);
